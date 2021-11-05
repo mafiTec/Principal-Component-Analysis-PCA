@@ -6,6 +6,6 @@ Principal Component Analysis is a technique for Feature Extraction so it combine
 
 - Problems presented by High Dimensionality Data
 
-= Dimensionality Reduction
+- Dimensionality Reduction
 
 - Application of PCA
